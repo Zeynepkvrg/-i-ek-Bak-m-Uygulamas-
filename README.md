@@ -1,2 +1,3 @@
 # -i-ek-Bak-m-Uygulamas-
-![Ekran görüntüsü 2023-03-26 000647](https://user-images.githubusercontent.com/127991154/227742373-8b2f11e1-bae7-4a0b-90be-de1e5c27a7d9.png)
+![Ekran Alıntısı 2](https://user-images.githubusercontent.com/127991154/227748328-e5c309c3-1a93-4545-a288-969288043566.PNG)
+![Ekran Alıntısı](https://user-images.githubusercontent.com/127991154/227748337-c064ae76-0d9b-4ffe-b162-1ccf3a0c052f.PNG)
